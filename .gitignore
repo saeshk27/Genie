@@ -1,0 +1,10 @@
+*.class 
+*/target/*
+*/.settings/*
+.classpath
+WebService/.gitignore
+UI/GenieUI-master/node_modules/*
+UI/GenieUI-master/.sourcemaps/*
+UI/GenieUI-master/www/build/*
+ML/GenieAI-master/node_modules/*
+ML/GenieAI-master/AI/tflearn_logs/*
